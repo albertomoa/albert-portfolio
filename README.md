@@ -1,6 +1,6 @@
-# Junior Data Scientist
+# Junior Data Scientist | Health Data Science
 
-#### Technical Skills: Python, SQL, PyMol, R Studio, Chemaxon
+#### Technical Skills: Python, Tableau, PyMol, R Studio, Chemaxon
 
 ## Education
 - Data Scientist Bootcamp | TripleTen, January 2023 – November 2023
