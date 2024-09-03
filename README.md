@@ -33,6 +33,11 @@
 - Managed and directed group activities and projects, aligning the team with strategic objectives to exceed key performance indicators (KPIs) and production targets.
 
 ## Projects
+### Student Performance Prediction: An End-to-End Machine Learning Project
+[Github Code](https://github.com/albertomoa/End-To-End-ML-Project-Student-Performance)
+
+This project builds a robust end-to-end machine learning pipeline to predict student performance based on key features. I utilized several models, with Linear Regression emerging as the top performer. The project covers the entire process, from data preprocessing and feature engineering to model training and evaluation. The pipeline incorporates CI/CD practices, ensuring the model is both reliable and scalable. The complete system is deployed locally, demonstrating its effectiveness in real-world scenarios.
+
 ### TripleTen - Temperature Prediction for Steelproof Steel Mill
 [Notebook](Final project/FINAL PROJECT - Steel Manufatur.ipynb)
 
