@@ -33,6 +33,12 @@
 - Managed and directed group activities and projects, aligning the team with strategic objectives to exceed key performance indicators (KPIs) and production targets.
 
 ## Projects
+### Predicting Biological Activity of Compounds using Machine Learning
+[Notebook](https://github.com/albertomoa/Health-Data-Science-Projects/tree/98ba52dd62f0b374969a38ec6d31ab74ebf7efc3/Drug-Discovery-New-Novel-Compound)
+
+This project aims to develop a machine learning pipeline for predicting the biological activity (pIC50 values) of chemical compounds. The project is rooted in drug discovery, leveraging bioinformatics tools to evaluate compounds for their potential as drug candidates by targeting Acetylcholinesterase, an enzyme relevant in neurological functions.
+Using molecular descriptors calculated from chemical compounds, various regression models were built and tested to predict their biological activity. The primary objective of the project is to predict pIC50 values, aiding in the drug discovery process by exploring the relationship between molecular features and biological efficacy.
+
 ### Student Performance Prediction: An End-to-End Machine Learning Project
 [Project Code](https://github.com/albertomoa/End-To-End-ML-Project-Student-Performance)
 
