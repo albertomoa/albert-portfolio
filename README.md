@@ -45,11 +45,11 @@ Using molecular descriptors calculated from chemical compounds, various regressi
 This project builds a robust end-to-end machine learning pipeline to predict student performance based on key features. I utilized several models, with Linear Regression emerging as the top performer. The project covers the entire process, from data preprocessing and feature engineering to model training and evaluation. The pipeline incorporates CI/CD practices, ensuring the model is both reliable and scalable. The complete system is deployed locally, demonstrating its effectiveness in real-world scenarios.
 
 ### TripleTen - Temperature Prediction for Steelproof Steel Mill
-[Notebook](Final project/FINAL PROJECT - Steel Manufatur.ipynb)
+[Notebook](https://github.com/albertomoa/DS-TripleTen-ex-Practicum-Machine-Learning-Modeling/tree/main/Final%20project)
 
 Used **Python**, I identified and addressed several data issues, including renaming columns and handling missing values by creating new aggregate columns or excluding certain datasets. Key insights from exploratory data analysis include typical heating duration, energy consumption, material usage, and the number of iterations needed for optimal steel composition at 1590 degrees. Outliers were cleaned, and feature engineering was performed to enhance model quality. I merged datasets and dropped highly correlated features, resulting in a final dataset of 2329 observations. Among five developed models, a Linear Regression model achieved an MAE of 3.9 degrees, indicating potential energy savings by reducing iteration processes.
 
 ### TripleTen - Zyfra (Au Concentrate Prediction)
-[Notebook](Project 10/Project 10 - Gold Acquitition.ipynb)
+[Notebook](https://github.com/albertomoa/DS-TripleTen-ex-Practicum-Machine-Learning-Modeling/tree/main/Project%2010)
 
 I analyzed three gold extraction and cleaning datasets using **Python**, filling missing values with medians and confirming accurate gold recovery calculations in the training set. I identified key features for model development and explored the data, finding significant increases in gold concentration at each stage while silver and lead remained stable. The particle size distribution was consistent across datasets, and anomalies with zero metal concentrations were removed. I developed and evaluated three models—Random Forest Regressor, Linear Regression, and Decision Tree Regressor—using KFolds. The Random Forest Regressor achieved the best performance with an sMAPE score of 5.67% on the test set, accurately predicting rougher and final recovery.
