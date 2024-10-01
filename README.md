@@ -21,7 +21,7 @@
 
 **AI Trainer @ Outlier (_April 2024 - Present_)**
 
-**Freelance Ads Quality Rater @ Welocalize (_August 2024 - Present_)**
+**Freelance Ads Quality Rater @ Welocalize (_August 2023 - Present_)**
 - Evaluated search engine ads using a proprietary tool.
 - Excels in a remote work environment, demonstrating proficiency in online research and effectively managing diverse workloads.
 - Independently sets and manages a flexible schedule to ensure timely project delivery.
