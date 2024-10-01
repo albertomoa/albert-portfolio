@@ -1,3 +1,4 @@
+
 # Junior Data Scientist | Health Data Science
 
 #### Technical Skills: Python, Tableau, PyMol, R Studio, Chemaxon
@@ -42,7 +43,7 @@ Using molecular descriptors calculated from chemical compounds, various regressi
 ### Student Performance Prediction: An End-to-End Machine Learning Project
 [Project Code](https://github.com/albertomoa/End-To-End-ML-Project-Student-Performance)
 
-This project builds a robust end-to-end machine learning pipeline to predict student performance based on key features. I utilized several models, with Linear Regression emerging as the top performer. The project covers the entire process, from data preprocessing and feature engineering to model training and evaluation. The pipeline incorporates CI/CD practices, ensuring the model is both reliable and scalable. The complete system is deployed locally, demonstrating its effectiveness in real-world scenarios.
+This project builds a robust end-to-end machine learning pipeline to predict student performance based on key features. I utilized several models, with Linear Regression emerging as the top performer. The project covers the entire process, from data preprocessing and feature engineering to model training and evaluation. The pipeline incorporates CI/CD practices, ensuring the model is both reliable and scalable. The complete system is deployed locally.
 
 ### TripleTen - Temperature Prediction for Steelproof Steel Mill
 [Notebook](https://github.com/albertomoa/DS-TripleTen-ex-Practicum-Machine-Learning-Modeling/tree/main/Final%20project)
