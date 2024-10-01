@@ -37,8 +37,7 @@
 ### Predicting Biological Activity of Compounds using Machine Learning
 [Notebook](https://github.com/albertomoa/Health-Data-Science-Projects/tree/main/Drug-Discovery-New-Novel-Compound)
 
-This project aims to develop a machine learning pipeline for predicting the biological activity (pIC50 values) of chemical compounds. The project is rooted in drug discovery, leveraging bioinformatics tools to evaluate compounds for their potential as drug candidates by targeting Acetylcholinesterase, an enzyme relevant in neurological functions.
-Using molecular descriptors calculated from chemical compounds, various regression models were built and tested to predict their biological activity. The primary objective of the project is to predict pIC50 values, aiding in the drug discovery process by exploring the relationship between molecular features and biological efficacy.
+This project aims to develop a machine learning pipeline for predicting the biological activity (pIC50 values) of chemical compounds. The project leverages bioinformatics tools to evaluate compounds for their potential as drug candidates by targeting acetylcholinesterase, an enzyme relevant in neurological functions. Using molecular descriptors calculated from chemical compounds, various regression models were built and tested to predict their biological activity.
 
 ### Student Performance Prediction: An End-to-End Machine Learning Project
 [Project Code](https://github.com/albertomoa/End-To-End-ML-Project-Student-Performance)
