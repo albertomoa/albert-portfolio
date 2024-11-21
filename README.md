@@ -34,6 +34,11 @@
 - Managed and directed group activities and projects, aligning the team with strategic objectives to exceed key performance indicators (KPIs) and production targets.
 
 ## Projects
+### Identification for Potensial Inhibitors for Tyrosine Kinase Enzym using Machine Learning
+[Notebook](https://github.com/albertomoa/Health-Data-Science-Projects/tree/main/Drug-Target-Identification)
+
+This project aims to develop a machine learning pipeline for predicting the biological activity (pIC50 values) of chemical compounds. The focus lies in drug discovery, leveraging cheminformatics and bioinformatics techniques to evaluate compounds for their potential as inhibitors of Tyrosine Kinase, an enzyme critical in cancer cell signaling and progression. Using molecular descriptors calculated from chemical compounds, various regression models were built and tested to predict pIC50 values. The AdaBoost Regressor was the best-performing model on the training and validation sets, with an R² score of 0.8049 and an RMSE of 1.0175. However, on the unseen test set, the model’s accuracy was moderate, with an R² of 0.73 and an RMSE of 1.60.
+
 ### Predicting Biological Activity of Compounds using Machine Learning
 [Notebook](https://github.com/albertomoa/Health-Data-Science-Projects/tree/main/Drug-Discovery-New-Novel-Compound)
 
